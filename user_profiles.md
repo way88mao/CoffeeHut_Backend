@@ -7,4 +7,5 @@ monthly
 quarterly 
 
 
+Loyal user - New user
 

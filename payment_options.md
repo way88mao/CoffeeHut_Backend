@@ -8,4 +8,4 @@ Net Banking
 
 Apple Pay
 
-
+Coffeehut_Wallet   
